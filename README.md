@@ -12,4 +12,15 @@ DNA Cryptography can be defined as hiding data in terms of DNA Sequence. Just li
 ![dna_code](https://user-images.githubusercontent.com/118982205/208177736-7ff14c62-0d28-4b4e-b19d-6644f23124ed.jpg) <br>
 
 # EXAMPLE
-AAGTTCAATACAACCACATCATCACGGCAGTTGCCGAGACATACTTTGAAGCGAAACACACACTGAACAAAGCCACACAGACATCGA
+AAGTTCAATACAACCACATCATCACGGCAGTTGCCGAGACATACTTTGAAGCGAAACACACACTGAACAAAGCCACACAGACATCGA <br>
+
+# USAGE
+git clone https://github.com/ClaMor21/DNA_DECODER.git <br>
+save encoded text into a .txt file <br>
+nano DNA_D.py <br>
+change <ENTER FILE LOCATION > to encoded text file location <br>
+  
+ **FOR EXAMPLE**
+  
+
+![image](https://user-images.githubusercontent.com/118982205/208182842-1dc36da3-bada-4f60-9ad4-befba330c6a0.png)
