@@ -66,7 +66,7 @@ map = {
 	'TTT': '.',
 }
 
-file = open(<ENTER file location>).read().strip()
+file = open('/home/kali/Desktop/code/dna_E.txt').read().strip()
 
 #to print file with decode text
 
@@ -75,3 +75,4 @@ for x in range(0,len(file), 3):
 	piece = file[x:x+3]
 	decoded_text.append(map[piece])
 print (''.join(decoded_text))
+print ("=======DECODED======")
