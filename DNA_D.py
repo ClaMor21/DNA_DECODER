@@ -3,7 +3,7 @@
 import subprocess
 
 
-print("[+]" + "UNZIPPING IMAGE")
+print("[+]" + "UNZIPPING IMAGE")   #unzipping .jpg file
 subprocess.call(["unzip" , "gbu.jpg"])
 
 
