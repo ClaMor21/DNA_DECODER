@@ -1,10 +1,21 @@
 #! /usr/bin/ Python
 
 import subprocess
+import os
+import shutil
 
 
-print("[+]" + "UNZIPPING IMAGE")   #unzipping .jpg file
-subprocess.call(["unzip" , "<FILE NAME>"])
+
+print("[+]" + "UNZIPPING IMAGE")
+subprocess.call(["unzip" , "<file_name>"])
+
+print("[+]" + "MAKING NEW DIRECTORY")
+newpath = r'/home/kali/Desktop/DNA'
+if not os.path.exists(newpath):
+	os.makedirs(newpath)
+
+print ("[+]" + "MOVING FILE INTO THE DIRECOTRY" )
+shutil.move('dna_E.txt' , '/home/kali/Desktop/DNA/dna_E.txt')
 
 
 map = {
@@ -141,7 +152,7 @@ map = {
 
 
 
-file = open('/home/kali/Desktop/code/dna_E.txt').read().strip()
+file = open('/home/kali/Desktop/DNA/dna_E.txt').read().strip()
 
 
 
