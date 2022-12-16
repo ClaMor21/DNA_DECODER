@@ -18,11 +18,20 @@ AAGTTCAATACAACCACATCATCACGGCAGTTGCCGAGACATACTTTGAAGCGAAACACACACTGAACAAAGCCACACAG
 **1. git clone https://github.com/ClaMor21/DNA_DECODER.git** <br>
 **2. save encoded text into a .txt file** <br>
 **3. nano DNA_D.py** <br>
-**4. change <ENTER FILE LOCATION > to encoded text file location** <br>
+**4. move the encoded image into the same directory <br>
+  
+  ![image](https://user-images.githubusercontent.com/118982205/208194731-1f84a27a-8527-42f7-85b4-8dcd8824e60d.png) <br>
+
+**5. change <Enter image name>**
+  
+  **FOR EXAMPLE**
+  
+  
+**6. change <ENTER FILE LOCATION > to encoded text file location** <br>
   
  **FOR EXAMPLE**
   
 
 ![image](https://user-images.githubusercontent.com/118982205/208182842-1dc36da3-bada-4f60-9ad4-befba330c6a0.png) <br>
   
-**5. python DNA_D.py**
+**7. python DNA_D.py**
