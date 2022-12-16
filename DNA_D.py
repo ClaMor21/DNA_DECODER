@@ -66,12 +66,12 @@ map = {
 	'TTT': '.',
 }
 
-c = open(<ENTER FILE NAME>).read().strip()
+file = open(<ENTER file location>).read().strip()
 
 #to print file with decode text
 
 decoded_text= []
-for x in range(0,len(c), 3):
-	piece = c[x:x+3]
+for x in range(0,len(file), 3):
+	piece = file[x:x+3]
 	decoded_text.append(map[piece])
 print (''.join(decoded_text))
