@@ -25,4 +25,4 @@ AAGTTCAATACAACCACATCATCACGGCAGTTGCCGAGACATACTTTGAAGCGAAACACACACTGAACAAAGCCACACAG
 
 ![image](https://user-images.githubusercontent.com/118982205/208182842-1dc36da3-bada-4f60-9ad4-befba330c6a0.png) <br>
   
-**5.python DNA_D.py**
+**5. python DNA_D.py**
