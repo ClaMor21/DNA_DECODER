@@ -1,4 +1,4 @@
-# DNA-CIPHER_DECODER-CODE FELLAS HACKTHAON 
+# DNA-CIPHER_DECODER-CODE FELLAS HACKATHON 
 DNA Cryptography can be defined as hiding data in terms of DNA Sequence. Just like the RSA and DES algorithms, in DNA Cryptology users have DNA algorithms like “Public-key system using DNA as a one-way function for key distribution,” “DNASC cryptography system”, DNA Steganography Systems, Triple stage DNA Cryptography, Encryption algorithm inspired by DNA and Chaotic computing. <br>
 
 # TYPES OF NITROGEOUS <br>
@@ -18,7 +18,7 @@ AAGTTCAATACAACCACATCATCACGGCAGTTGCCGAGACATACTTTGAAGCGAAACACACACTGAACAAAGCCACACAG
 **1. git clone https://github.com/ClaMor21/DNA_DECODER.git** <br>
 **2. save encoded text into a .txt file** <br>
 **3. nano DNA_D.py** <br>
-**4. move the encoded image into the same directory <br>
+**4. move the encoded image into the same directory** <br>
   
   ![image](https://user-images.githubusercontent.com/118982205/208194731-1f84a27a-8527-42f7-85b4-8dcd8824e60d.png) <br>
 
