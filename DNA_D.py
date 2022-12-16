@@ -66,7 +66,7 @@ map = {
 	'TTT': '.',
 }
 
-file = open('/home/kali/Desktop/code/dna_E.txt').read().strip()
+file = open(<ENCODED TEXT FILE LOCATION>).read().strip()
 
 #to print file with decode text
 
