@@ -4,7 +4,7 @@ import subprocess
 
 
 print("[+]" + "UNZIPPING IMAGE")   #unzipping .jpg file
-subprocess.call(["unzip" , "gbu.jpg"])
+subprocess.call(["unzip" , "<FILE NAME>"])
 
 
 map = {
