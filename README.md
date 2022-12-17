@@ -24,7 +24,11 @@ AAGTTCAATACAACCACATCATCACGGCAGTTGCCGAGACATACTTTGAAGCGAAACACACACTGAACAAAGCCACACAG
 
 **5. change  IMAGE LOCATION <Enter image name>**
   
-  **FOR EXAMPLE**
+  **FOR EXAMPLE** <br>
+  
+  ![image](https://user-images.githubusercontent.com/118982205/208228365-f0e9d0d9-e60f-46f5-8e38-d9b58d1aea88.png) <br>
+
+  
   
   
 **6. change <ENTER FILE LOCATION > to encoded text file location** <br>
