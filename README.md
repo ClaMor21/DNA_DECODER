@@ -22,20 +22,10 @@ AAGTTCAATACAACCACATCATCACGGCAGTTGCCGAGACATACTTTGAAGCGAAACACACACTGAACAAAGCCACACAG
   
   ![image](https://user-images.githubusercontent.com/118982205/208194731-1f84a27a-8527-42f7-85b4-8dcd8824e60d.png) <br>
 
-**5. change  IMAGE LOCATION <Enter image name>**
+**5. change  IMAGE name <Enter image name>**
   
   **FOR EXAMPLE** <br>
   
   ![image](https://user-images.githubusercontent.com/118982205/208228365-f0e9d0d9-e60f-46f5-8e38-d9b58d1aea88.png) <br>
-
   
-  
-  
-**6. change <ENTER FILE LOCATION > to encoded text file location** <br>
-  
- **FOR EXAMPLE**
-  
-
-![image](https://user-images.githubusercontent.com/118982205/208182842-1dc36da3-bada-4f60-9ad4-befba330c6a0.png) <br>
-  
-**7. python DNA_D.py**
+**6. python DNA_D.py**
