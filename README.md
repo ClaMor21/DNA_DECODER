@@ -1,4 +1,4 @@
-# DNA-CIPHER_DECODER-CODE WITH IMAGE EXTRACTOR FELLAS HACKATHON 
+# DNA_ENCRYPTION DECODER-CODE WITH IMAGE EXTRACTOR FELLAS HACKATHON 
 DNA Cryptography can be defined as hiding data in terms of DNA Sequence. Just like the RSA and DES algorithms, in DNA Cryptology users have DNA algorithms like “Public-key system using DNA as a one-way function for key distribution,” “DNASC cryptography system”, DNA Steganography Systems, Triple stage DNA Cryptography, Encryption algorithm inspired by DNA and Chaotic computing. <br>
 
 # TYPES OF NITROGEOUS <br>
