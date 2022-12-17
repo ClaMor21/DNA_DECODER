@@ -22,7 +22,7 @@ AAGTTCAATACAACCACATCATCACGGCAGTTGCCGAGACATACTTTGAAGCGAAACACACACTGAACAAAGCCACACAG
   
   ![image](https://user-images.githubusercontent.com/118982205/208194731-1f84a27a-8527-42f7-85b4-8dcd8824e60d.png) <br>
 
-**5. change <Enter image name>**
+**5. change  IMAGE LOCATION <Enter image name>**
   
   **FOR EXAMPLE**
   
