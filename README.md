@@ -14,7 +14,7 @@ DNA Cryptography can be defined as hiding data in terms of DNA Sequence. Just li
 # EXAMPLE
 AAGTTCAATACAACCACATCATCACGGCAGTTGCCGAGACATACTTTGAAGCGAAACACACACTGAACAAAGCCACACAGACATCGA <br>
 
-# USAGE
+# USAGE IN LINUX
 **1. git clone https://github.com/ClaMor21/DNA_DECODER.git** <br>
 **2. save encoded text into a .txt file** <br>
 **3. move the encoded image into the same directory** <br>
